@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "5de5fac206de8719",
+    "type": "split",
+    "children": [
+      {
+        "id": "932e7db20e1fc0db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38995868b0692858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识整理/项目建设/点子/相似业务聚合-公共服务的提取和整理.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cecf2d23cea5f16",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0acc76414f743282",
+    "type": "split",
+    "children": [
+      {
+        "id": "0037e9795141d757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d8cac321914f5bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b58b5751caa1d6f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#无广告",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d273a77653f2943",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "80a37e2d54d1b6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4f21edcee8769d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fe55a61f197cfc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识整理/技术/Linux/知识点/shell-路径通配符星处理机制.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f273ff1672f402cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "994b67e232bfb794",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识整理/项目建设/点子/相似业务聚合-公共服务的提取和整理.md"
+              }
+            }
+          },
+          {
+            "id": "96d05816a95826ba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c757b6b08b39dbb7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "e47a650a63aefd7f",
+            "type": "leaf",
+            "state": {
+              "type": "note-preview",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:打开命令面板": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "38995868b0692858",
+  "lastOpenFiles": [
+    "知识整理/项目建设/点子/设计时的数据生命周期分析.md",
+    "知识整理/项目建设/点子/相似业务聚合-公共服务的提取和整理.md",
+    "TODO.md",
+    "Drawing 2024-06-02 16.10.55.excalidraw.md",
+    "知识整理/技术/Linux/知识点/命令/envsubst-环境变量替换.md",
+    "知识整理/技术/Linux/cp-拷贝软连接变为拷贝源文件.md",
+    "知识整理/技术/Linux/知识点/命令/assets/envsubst-环境变量替换/image-20240531175145336.png",
+    "知识整理/技术/Linux/知识点/命令/assets/envsubst-环境变量替换",
+    "知识整理/技术/Linux/知识点/命令/usermod-设置用户ID.md",
+    "知识整理/技术/Linux/知识点/命令/gpasswd-添加用户到特定用户组.md",
+    "知识整理/技术/Linux/知识点/命令/cp-复制拷贝.md",
+    "知识整理/技术/Linux/知识点/软连接与硬连接.md",
+    "知识整理/技术/Linux/shell-获取最后一个参数和除最后一个参数外的所有参数.md",
+    "知识整理/技术/Linux/知识点/未命名.md",
+    "知识整理/技术/Linux/sudo-解决在sudo时变慢等待.md",
+    "知识整理/技术/Linux/ssh-免密登录时关闭严格模式.md",
+    "知识整理/技术/Linux/shell-路径通配符星处理机制.md",
+    "知识整理/技术/Linux/知识点/命令/mv-移动重命名.md",
+    "知识整理/技术/Linux/知识点/命令/man-查看帮助文档.md",
+    "知识整理/技术/Linux/知识点/命令/id-查看用户ID和组ID.md",
+    "知识整理/技术/Linux/知识点/命令/groupmod-设置用户组ID.md",
+    "知识整理/技术/Linux/知识点/命令/groupadd-添加用户组.md",
+    "知识整理/技术/docker/assets/将多个镜像复用通用层导出成一个文件减少体积/项目镜像构建.excalidraw.md",
+    "知识整理/技术/Linux/知识点/命令/assets/man-查看帮助文档/image-20240531112941071.png",
+    "知识整理/技术/docker/将多个镜像复用通用层导出成一个文件减少体积.md",
+    "知识整理/技术/docker/assets/将多个镜像复用通用层导出成一个文件减少体积/项目镜像构建.excalidraw.png",
+    "知识整理/技术/git/删除本地无效过期分支.md",
+    "知识整理/技术/git/~$本地无效过期分支.docx",
+    "知识整理/技术/git/删除本地无效过期分支.docx",
+    "知识整理/技术/git/submodule-子仓库.md",
+    "知识整理/技术/docker/允许其他用户使用docker.md",
+    "知识整理/工具/压缩工具/PeaZip-开源压缩解压缩工具.md",
+    "工作/2024/assets/组织生活会团员整改清单.jpg",
+    "知识整理/技术/docker/~$个镜像复用通用层导出成一个文件减少体积.docx",
+    "知识整理/技术/docker/将多个镜像复用通用层导出成一个文件减少体积.docx",
+    "知识整理/技术/docker/assets/将多个镜像复用通用层导出成一个文件减少体积",
+    "知识整理/技术/docker/assets",
+    "知识整理/技术/docker/未命名.canvas",
+    "知识整理/MBA/研一下/财务管理",
+    "知识整理/技术/Linux/知识点/命令/assets/man-查看帮助文档",
+    "知识整理/技术/Linux/知识点/命令/assets",
+    "知识整理/工具/压缩工具/assets/PeaZip-开源压缩解压缩工具/image-20240531110034573.png",
+    "知识整理/技术/C++/3.知识点/1.C++11以前/疑难杂症/assets/cpp_memcpy.png",
+    "知识整理/技术/Linux/assets/shell-路径通配符星处理机制/image-20240530173308468.png",
+    "知识整理/技术/Linux/assets/shell-路径通配符星处理机制/image-20240530172808581.png",
+    "知识整理/技术/Linux/assets/shell-路径通配符星处理机制/image-20240530172726130.png",
+    "知识整理/技术/Linux/知识点/assets/shell-路径通配符星处理机制/image-20240530172701545.png",
+    "知识整理/理应如此/3.期货业务/未命名.canvas",
+    "知识整理/项目建设/点子/未命名.canvas",
+    "未命名.canvas"
+  ]
+}

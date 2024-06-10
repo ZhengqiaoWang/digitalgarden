@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "752bea4f3623973c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e008b352f2c61faa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10449308e88f052d",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1aff38c3c7386da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/2024/会议记录/2024-06-03 银期通和会员资金风控系统对接.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94f5a26e912a3ca5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7b6fd4c5e9ef004d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e5be433e3de5df0b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "参数",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "614e417d54112d8b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "20993224fa1d41c5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6a3445391787c015",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e8621164d6b93c66",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "工作/2024/会议记录/2024-06-03 银期通和会员资金风控系统对接.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": true,
+      "remotely-save:Remotely Save": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": true,
+      "card-board:CardBoard": false,
+      "daily-notes:打开/创建今天的日记": false
+    }
+  },
+  "active": "1aff38c3c7386da8",
+  "lastOpenFiles": [
+    "工作/2024/会议记录/2024-06-03 银期通和会员资金风控系统对接.md",
+    "202406031559.md",
+    "知识整理/项目建设/点子/相似业务聚合-公共服务的提取和整理.md",
+    "知识整理/技术/Linux/知识点/命令/crontab-定时任务.md",
+    "知识整理/技术/Linux/crontab-环境变量导致的任务执行失败.md",
+    "工作/2024/会议记录/未命名.md",
+    "工作/2024/会议记录",
+    "知识整理/MBA/研一下/人力资源管理/人力资源管理复习资料.md",
+    "TODO.md",
+    "Drawing 2024-06-02 16.10.55.excalidraw.md",
+    "未命名.md",
+    "知识整理/技术/Linux/shell-路径通配符星处理机制.md",
+    "知识整理/技术/Linux/ssh-免密登录时关闭严格模式.md",
+    "知识整理/技术/Linux/sudo-解决在sudo时变慢等待.md",
+    "知识整理/技术/Linux/shell-获取最后一个参数和除最后一个参数外的所有参数.md",
+    "知识整理/技术/Linux/cp-拷贝软连接变为拷贝源文件.md",
+    "知识整理/技术/git/删除本地无效过期分支.md",
+    "知识整理/MBA/研一下/财务管理/财务报表分析.md",
+    "知识整理/技术/Linux/知识点/软连接与硬连接.md",
+    "知识整理/技术/Linux/知识点/命令/cp-复制拷贝.md",
+    "知识整理/技术/docker/允许其他用户使用docker.md",
+    "知识整理/技术/Linux/知识点/命令/mv-移动重命名.md",
+    "知识整理/工具/压缩工具/PeaZip-开源压缩解压缩工具.md",
+    "知识整理/技术/Linux/知识点/命令/man-查看帮助文档.md",
+    "知识整理/技术/Linux/知识点/命令/id-查看用户ID和组ID.md",
+    "知识整理/技术/Linux/知识点/命令/usermod-设置用户ID.md",
+    "知识整理/技术/Linux/知识点/命令/groupadd-添加用户组.md",
+    "知识整理/技术/Linux/assets/shell-路径通配符星处理机制/image-20240530173308468.png",
+    "知识整理/工具/压缩工具/assets/PeaZip-开源压缩解压缩工具/image-20240531110034573.png",
+    "知识整理/技术/Linux/assets/shell-路径通配符星处理机制/image-20240530172808581.png",
+    "知识整理/技术/Linux/assets/shell-路径通配符星处理机制/image-20240530172726130.png",
+    "知识整理/技术/Linux/知识点/命令/assets/man-查看帮助文档/image-20240531112941071.png",
+    "知识整理/技术/Linux/知识点/命令/assets/man-查看帮助文档",
+    "知识整理/技术/Linux/知识点/命令/assets",
+    "知识整理/技术/Linux/知识点/命令",
+    "知识整理/工具/压缩工具/assets/PeaZip-开源压缩解压缩工具",
+    "知识整理/项目建设/点子/assets/构建流水线-自动化和人工审计的取舍",
+    "知识整理/技术/Linux/assets/shell-路径通配符星处理机制",
+    "知识整理/技术/docker/assets/将多个镜像复用通用层导出成一个文件减少体积",
+    "知识整理/技术/Linux/知识点",
+    "知识整理/MBA/研一下/财务管理",
+    "工作/2024/assets/组织生活会团员整改清单.jpg",
+    "未命名.canvas",
+    "知识整理/技术/C++/3.知识点/1.C++11以前/疑难杂症/assets/cpp_memcpy.png"
+  ]
+}

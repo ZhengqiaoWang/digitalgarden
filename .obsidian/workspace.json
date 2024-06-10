@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "5de5fac206de8719",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e15edefe516ad89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b79a4606e9ca9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识整理/MBA/研一下/人力资源管理/人力资源管理复习资料.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0acc76414f743282",
+    "type": "split",
+    "children": [
+      {
+        "id": "0037e9795141d757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d8cac321914f5bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b58b5751caa1d6f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d273a77653f2943",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5
+  },
+  "right": {
+    "id": "80a37e2d54d1b6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4f21edcee8769d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f273ff1672f402cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "994b67e232bfb794",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识整理/MBA/研一下/人力资源管理/人力资源管理复习资料.md"
+              }
+            }
+          },
+          {
+            "id": "96d05816a95826ba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e47a650a63aefd7f",
+            "type": "leaf",
+            "state": {
+              "type": "note-preview",
+              "state": {}
+            }
+          },
+          {
+            "id": "856e97a5a195a352",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识整理/MBA/研一下/人力资源管理/人力资源管理复习资料.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:打开命令面板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "note-to-mp:复制到公众号": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "3b79a4606e9ca9a3",
+  "lastOpenFiles": [
+    "知识整理/MBA/研一下/人力资源管理/assets/人力资源管理复习资料/image-20240610155341444.png",
+    "知识整理/MBA/研一下/人力资源管理/assets/人力资源管理复习资料/image-20240610155326935.png",
+    "知识整理/MBA/研一下/人力资源管理/人力资源管理复习资料.md",
+    "知识整理/MBA/研一下/人力资源管理/assets/人力资源管理复习资料/image-20240610154842442.png",
+    "知识整理/MBA/研一下/人力资源管理/assets/人力资源管理复习资料/image-20240610154819680.png",
+    "知识整理/MBA/研一下/人力资源管理/assets/人力资源管理复习资料/image-20240610154805369.png",
+    "知识整理/MBA/研一下/人力资源管理/assets/人力资源管理复习资料/image-20240610154614087.png",
+    "知识整理/MBA/研一下/人力资源管理/assets/人力资源管理复习资料/image-20240610154348217.png",
+    "知识整理/MBA/研一下/人力资源管理/assets/人力资源管理复习资料/image-20240610154158795.png",
+    "知识整理/MBA/研一下/人力资源管理/assets/人力资源管理复习资料/image-20240610153959260.png",
+    "知识整理/MBA/研一下/人力资源管理/assets/人力资源管理复习资料/image-20240610153913744.png",
+    "知识整理/MBA/研一下/人力资源管理/assets/人力资源管理复习资料/image-20240610153705921.png",
+    "知识整理/MBA/研一下/人力资源管理/().md",
+    "知识整理/MBA/研一下/人力资源管理/assets/人力资源管理复习资料",
+    "知识整理/MBA/研一下/人力资源管理/assets",
+    "知识整理/技术/Python/1.入门/2.目录.md",
+    "知识整理/技术/Python/1.入门/1.前言.md",
+    "知识整理/技术/Python/1.入门/5.面向过程/1.函数.md",
+    "知识整理/技术/Python/1.入门/4.基础语法/1.主程序入口.md",
+    "TODO.md",
+    "知识整理/技术/Python/1.入门/5.面向过程",
+    "知识整理/技术/Python/1.入门/4.基础语法",
+    "知识整理/技术/Python/1.入门/3.环境搭建/3.Hello World.md",
+    "知识整理/技术/Python/1.入门/3.环境搭建/assets/3.Hello World",
+    "知识整理/技术/Python/1.入门/3.环境搭建/2.开发环境搭建.md",
+    "知识整理/技术/Python/1.入门/3.环境搭建/assets/2.开发环境搭建",
+    "知识整理/技术/Python/1.入门/3.环境搭建/1.运行环境搭建.md",
+    "知识整理/技术/Python/1.入门/3.环境搭建/assets/1.运行环境搭建",
+    "知识整理/技术/Python/1.入门/3.环境搭建/assets",
+    "知识整理/技术/Python/1.入门/3.环境搭建",
+    "知识整理/技术/Python/1.入门/3.环境搭建",
+    "知识整理/技术/Linux/知识点/命令/gpasswd-设置管理用户组.md",
+    "知识整理/技术/Linux/知识点/命令/groupadd-添加用户组.md",
+    "知识整理/技术/Linux/知识点/命令/groupmod-设置用户组ID.md",
+    "知识整理/技术/Linux/知识点/命令/id-查看用户ID和组ID.md",
+    "知识整理/技术/Linux/知识点/命令/usermod-设置用户ID.md",
+    "知识整理/技术/Linux/知识点/命令/envsubst-环境变量替换.md",
+    "知识整理/技术/Linux/知识点/命令/crontab-定时任务.md",
+    "知识整理/技术/Linux/知识点/命令/cp-复制拷贝.md",
+    "知识整理/技术/Linux/知识点/命令/mv-移动重命名.md",
+    "知识整理/技术/Linux/知识点/命令/man-查看帮助文档.md",
+    "知识整理/技术/Linux/cp-拷贝软连接变为拷贝源文件.md",
+    "知识整理/技术/Linux/shell-获取最后一个参数和除最后一个参数外的所有参数.md",
+    "知识整理/技术/Linux/shell-路径通配符星处理机制.md",
+    "知识整理/技术/Linux/ssh-免密登录时关闭严格模式.md",
+    "知识整理/技术/Linux/sudo-解决在sudo时变慢等待.md",
+    "知识整理/技术/docker/未命名.canvas",
+    "知识整理/理应如此/3.期货业务/未命名.canvas",
+    "知识整理/项目建设/点子/未命名.canvas",
+    "未命名.canvas"
+  ]
+}

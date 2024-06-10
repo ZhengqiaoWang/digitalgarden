@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "5de5fac206de8719",
+    "type": "split",
+    "children": [
+      {
+        "id": "81be95527fc462ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f48c32f6460c935b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0acc76414f743282",
+    "type": "split",
+    "children": [
+      {
+        "id": "0037e9795141d757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d8cac321914f5bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b58b5751caa1d6f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#会议记录",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d273a77653f2943",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "80a37e2d54d1b6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4f21edcee8769d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fe55a61f197cfc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识整理/技术/Linux/知识点/shell-路径通配符星处理机制.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f273ff1672f402cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "994b67e232bfb794",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO.md"
+              }
+            }
+          },
+          {
+            "id": "96d05816a95826ba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e47a650a63aefd7f",
+            "type": "leaf",
+            "state": {
+              "type": "note-preview",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:打开命令面板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "f48c32f6460c935b",
+  "lastOpenFiles": [
+    "TODO.md",
+    "知识整理/技术/C++/1.入门/变量.md",
+    "知识整理/技术/C++/2.进阶/设计模式/1.单例模式.md",
+    "知识整理/技术/C++/3.知识点/2.C++11/std-call_once.md",
+    "知识整理/技术/C++/1.入门/多线程.md",
+    "知识整理/技术/git/submodule-子仓库.md",
+    "工作/2024/会议记录/2024-06-03 银期通和会员资金风控系统对接.md",
+    "知识整理/技术/C++/2.进阶/设计模式",
+    "知识整理/技术/Linux/crontab-环境变量导致的任务执行失败.md",
+    "工作/2024/会议记录/2024-06-03.md",
+    "工作/2024/会议记录/未命名.md",
+    "工作/2024/会议记录",
+    "知识整理/技术/Linux/cp-拷贝软连接变为拷贝源文件.md",
+    "知识整理/技术/Linux/shell-获取最后一个参数和除最后一个参数外的所有参数.md",
+    "知识整理/技术/Linux/知识点/命令/crontab-定时任务.md",
+    "知识整理/技术/Linux/知识点/命令/envsubst-环境变量替换.md",
+    "知识整理/技术/Linux/知识点/命令/gpasswd-添加用户到特定用户组.md",
+    "知识整理/技术/Linux/shell-路径通配符星处理机制.md",
+    "知识整理/技术/Linux/sudo-解决在sudo时变慢等待.md",
+    "知识整理/技术/Linux/ssh-免密登录时关闭严格模式.md",
+    "知识整理/技术/C++/3.知识点/2.C++11/1.C11特性.md",
+    "知识整理/技术/C++/3.知识点/1.C++11以前/1.C++11以前.md",
+    "知识整理/技术/C++/3.知识点/1.C++11以前/疑难杂症/2022-10-12-C++ main函数使用return和exit的区别.md",
+    "知识整理/技术/C++/3.知识点/1.C++11以前/疑难杂症/2022-02-10-C++ memcpy不适用内存重叠的问题.md",
+    "知识整理/技术/Linux/知识点/命令/mv-移动重命名.md",
+    "知识整理/技术/Linux/知识点/命令/man-查看帮助文档.md",
+    "知识整理/技术/Linux/知识点/命令/groupmod-设置用户组ID.md",
+    "知识整理/技术/Linux/知识点/命令/groupadd-添加用户组.md",
+    "知识整理/技术/Linux/知识点/命令/assets/envsubst-环境变量替换/image-20240531175145336.png",
+    "知识整理/技术/Linux/知识点/命令/assets/envsubst-环境变量替换",
+    "知识整理/技术/Linux/知识点/命令/assets/man-查看帮助文档/image-20240531112941071.png",
+    "知识整理/技术/docker/assets/将多个镜像复用通用层导出成一个文件减少体积/项目镜像构建.excalidraw.png",
+    "知识整理/技术/git/~$本地无效过期分支.docx",
+    "知识整理/技术/git/删除本地无效过期分支.docx",
+    "工作/2024/assets/组织生活会团员整改清单.jpg",
+    "知识整理/技术/docker/~$个镜像复用通用层导出成一个文件减少体积.docx",
+    "知识整理/技术/docker/将多个镜像复用通用层导出成一个文件减少体积.docx",
+    "知识整理/技术/docker/assets/将多个镜像复用通用层导出成一个文件减少体积",
+    "知识整理/技术/docker/assets",
+    "知识整理/技术/docker/未命名.canvas",
+    "知识整理/MBA/研一下/财务管理",
+    "知识整理/工具/压缩工具/assets/PeaZip-开源压缩解压缩工具/image-20240531110034573.png",
+    "知识整理/技术/C++/3.知识点/1.C++11以前/疑难杂症/assets/cpp_memcpy.png",
+    "知识整理/技术/Linux/assets/shell-路径通配符星处理机制/image-20240530173308468.png",
+    "知识整理/技术/Linux/assets/shell-路径通配符星处理机制/image-20240530172808581.png",
+    "知识整理/技术/Linux/assets/shell-路径通配符星处理机制/image-20240530172726130.png",
+    "知识整理/技术/Linux/知识点/assets/shell-路径通配符星处理机制/image-20240530172701545.png",
+    "知识整理/理应如此/3.期货业务/未命名.canvas",
+    "知识整理/项目建设/点子/未命名.canvas",
+    "未命名.canvas"
+  ]
+}
